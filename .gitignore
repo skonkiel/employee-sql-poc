@@ -1,2 +1,5 @@
 EmployeeSQL/data/
 .DS_Store
+config.py
+__pycache__/
+.ipynb_checkpoints/
