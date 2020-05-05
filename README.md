@@ -1,4 +1,4 @@
-# Employee SQL Analysis (proof of concept)
+# Employee SQL Database Design Project
 
 ## Project background
 
